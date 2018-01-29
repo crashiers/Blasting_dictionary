@@ -8,6 +8,5 @@
 
 大型字典都在big_dictionary.txt文件里
 
-如果地址失效了，可以发邮件给我：
 
-rootphantomy#hotmail.com
+
